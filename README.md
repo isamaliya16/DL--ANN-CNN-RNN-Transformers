@@ -452,49 +452,6 @@ Three prompts were completed twice each, then one prompt was run at temperature 
 
 ---
 
-## 📁 Repository Structure
-
-```
-DL-Practical-Exam-SetC/
-│
-├── 📓 DeepLearning_Practical_Exam_SetC.ipynb   ← Full notebook — all five steps
-├── 📊 plots/                                   ← Figures used in this README
-│   ├── wine_class_distribution.png
-│   ├── ann_accuracy.png
-│   ├── ann_loss.png
-│   ├── ann_confusion_matrix.png
-│   ├── opencv_original_images.png
-│   ├── opencv_colour_mask.png
-│   ├── opencv_morphology.png
-│   ├── opencv_sobel_edges.png
-│   ├── opencv_face_detection.png
-│   ├── opencv_summary_grid.png
-│   ├── mnist_samples.png
-│   ├── cnn_accuracy.png
-│   ├── cnn_loss.png
-│   ├── cnn_confusion_matrix.png
-│   ├── cnn_wrong_predictions.png
-│   ├── cnn_feature_maps.png
-│   ├── temperature_full_series.png
-│   ├── temperature_one_year.png
-│   ├── gru_loss.png
-│   ├── gru_actual_vs_predicted.png
-│   └── qa_confidence.png
-├── 🖼️ outputs/                                 ← 32 images saved by Step 2 (OpenCV)
-├── 🧠 models/
-│   ├── ann_wine_model.h5                       ← Wine ANN
-│   ├── cnn_mnist_model.h5                      ← MNIST CNN
-│   └── rnn_temperature_model.h5                ← Temperature GRU
-├── 📋 requirements.txt                         ← Library list
-└── 📖 README.md                                ← This file
-```
-
-*Note: the notebook saves the three `.h5` models in the notebook folder; move them into `models/` when organising the repository.*
-
-<br>
-
----
-
 ## 📦 Requirements
 
 ```
