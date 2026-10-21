@@ -30,13 +30,13 @@
 
 <div align="center">
 
-[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
+[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1LAu5Pj3rexPQsBdogDSlNjKBFf11WLKg/view?usp=sharing)
 
 
 🎥 **A complete video explanation (face + screen, 5–10 min)** covering all five steps: the Wine ANN with scaling and one-hot labels, OpenCV colour masks, morphology, Sobel edges and Haar face detection, the MNIST CNN against an ANN baseline, GRU temperature forecasting against a naive baseline, and the Hugging Face fill-mask, question-answering and text-generation pipelines.
 
 
-> 📌 *Click the button above or [open the video directly →]()*
+> 📌 *Click the button above or [open the video directly →](https://drive.google.com/file/d/1LAu5Pj3rexPQsBdogDSlNjKBFf11WLKg/view?usp=sharing)*
 
 </div>
 
